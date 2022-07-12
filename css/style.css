@@ -1,0 +1,43 @@
+body {
+ background-color:#D6EFED;
+ margin-left:25px;
+ font-family:"Arial";
+
+}
+h2 {color:#006E7F;
+
+}
+h3{
+  color:#53BF9D;
+}
+
+h4{color:black;
+  }
+
+hr{
+  border-color: white;
+  border-style:none;
+  border-top-style:solid;
+  border-top-width: medium;
+}
+
+table td{
+  font-size: 16px;
+}
+
+/*table td:first-child{
+  text-align: left;
+}*/
+
+
+li{
+    font-size: 16px;
+    line-height: 22px;
+}
+td{
+  font-size:16px
+}
+p{
+  font-size:16px;
+  line-height: 22px;
+}
